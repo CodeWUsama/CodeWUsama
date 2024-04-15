@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewusama&label=Profile%20views&color=0e75b6&style=flat" alt="codewusama" /> </p>
 
-- 🔭 I’m currently working on **USA Based Referral & Hiring Platform through Devsinc.**
+- 🔭 I’m currently working as **Frontend Engineer at Remotebase**
 
 - 🌱 I have expertise in web development using **React, Next JS & Node JS.**
 
