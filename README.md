@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Bilal</h1>
-<h3 align="center">A passionate web developer from Pakistan.</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewusama&label=Profile%20views&color=0e75b6&style=flat" alt="codewusama" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I have expertise in web development using **React, Next JS & Node JS.**
 
-- 👯 Read about me at [https://usamabilal.com/](https://usamabilal.com/)
+- 👯 Read about me at [here](https://www.linkedin.com/in/usamabilal775/)
 
 - 💬 Ask me about **react, next.js, node.js, javascript, html & css.**
 
