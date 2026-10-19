@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1000" viewBox="0 0 860 1000" role="img" aria-labelledby="t d">
+  <title id="t">Usama Bilal</title>
+  <desc id="d">Software engineer who builds AI assistants that take busy work off people's plates. Previously led a frontend team at Devsinc, built software for government services and an HR app at Embrace IT. Computer science gold medalist from COMSATS University.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; }
+    .p { fill: #3fb950; }
+    .c { fill: #6e7681; }
+    .w { fill: #e6edf3; }
+    .b { fill: #e6edf3; font-weight: 700; }
+    .y { fill: #e3b341; }
+    .m { fill: #8b949e; }
+    .l { fill: #58a6ff; }
+  </style>
+  <rect x="0.5" y="0.5" width="859" height="999" rx="12" fill="#010409" stroke="#30363d"/>
+  <path d="M12.5 0.5h835a12 12 0 0 1 12 12v31.5h-859v-31.5a12 12 0 0 1 12-12z" fill="#161b22"/>
+  <line x1="0.5" y1="44" x2="859.5" y2="44" stroke="#21262d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="22" r="6" fill="#28c840"/>
+  <text x="88" y="27" class="m" style="font-size:12px">usama — hello</text>
+
+  <text x="28" y="84"><tspan class="p">&gt;</tspan> hello <tspan class="c"># who I am</tspan></text>
+  <text x="48" y="110" class="w">Hi, I'm <tspan class="b">Usama</tspan>. I build software that does real work for people.</text>
+
+  <text x="28" y="156"><tspan class="p">&gt;</tspan> right-now <tspan class="c"># what I'm working on</tspan></text>
+  <text x="48" y="182">I build <tspan class="b">AI assistants</tspan> that take busy work off people's plates.</text>
+  <text x="48" y="206">They read through messages and documents, keep track of what</text>
+  <text x="48" y="230">needs doing, and follow it through to done.</text>
+  <text x="48" y="254">I also care about the unglamorous part: getting new features</text>
+  <text x="48" y="278">to real users safely.</text>
+
+  <text x="28" y="324"><tspan class="p">&gt;</tspan> my-journey <tspan class="c"># where I've been</tspan></text>
+  <text x="48" y="350"><tspan class="y">now </tspan>  <tspan class="b">Remotebase</tspan>: building AI products for businesses</text>
+  <text x="48" y="374"><tspan class="y">2022</tspan>  <tspan class="b">Devsinc</tspan>: led the frontend team for a US hiring platform.</text>
+  <text x="102" y="398">Employee of the Quarter, more than once</text>
+  <text x="48" y="422"><tspan class="y">2021</tspan>  <tspan class="b">Govt services</tspan>: built two large software systems</text>
+  <text x="48" y="446"><tspan class="y">2021</tspan>  <tspan class="b">Embrace IT</tspan>: first job, building an HR app</text>
+  <text x="48" y="470"><tspan class="y">2021</tspan>  <tspan class="b">COMSATS University</tspan>: computer science degree,</text>
+  <text x="102" y="494">gold medal, top of my class</text>
+
+  <text x="28" y="540"><tspan class="p">&gt;</tspan> toolbox <tspan class="c"># what I build with</tspan></text>
+  <text x="48" y="566"><tspan class="m">Websites &amp; apps</tspan></text><text x="228" y="566">React, Next.js, TypeScript, React Native</text>
+  <text x="48" y="590"><tspan class="m">AI &amp; back end</tspan></text><text x="228" y="590">Python, Node.js, AI agents and testing them</text>
+  <text x="48" y="614"><tspan class="m">Data</tspan></text><text x="228" y="614">PostgreSQL, MongoDB, search</text>
+  <text x="48" y="638"><tspan class="m">Cloud</tspan></text><text x="228" y="638">AWS, Docker, Terraform</text>
+
+  <text x="28" y="684"><tspan class="p">&gt;</tspan> fun-fact</text>
+  <text x="48" y="710">I either do a task properly, or not at all.</text>
+
+  <text x="28" y="756"><tspan class="p">&gt;</tspan> say-hi <tspan class="c"># come find me</tspan></text>
+  <text x="48" y="782"><tspan class="m">LinkedIn</tspan></text><text x="148" y="782" class="l">linkedin.com/in/usamabilal775</text>
+  <text x="48" y="806"><tspan class="m">Resume</tspan></text><text x="148" y="806" class="l">codewusama.github.io/resume</text>
+  <text x="48" y="830"><tspan class="m">Email</tspan></text><text x="148" y="830" class="w">workwithusamabilal@gmail.com</text>
+
+  <text x="28" y="876"><tspan class="p">&gt;</tspan></text>
+  <rect x="44" y="862" width="9" height="18" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
